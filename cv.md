@@ -38,7 +38,7 @@ The input is a string. It can contain opening and closing brackets `()` `{}` `[]
 2) Nesting of brackets is not detected, that is, if a bracket is opened inside other brackets, then it will close within the parent brackets
 
 
-```
+```js
 function bracket() {
   const bracketString = document.querySelector("#thirdInput").value;
   let f = (str) => {
@@ -70,7 +70,7 @@ A lucky number is a number that is described by the following process:
 
 3) Those numbers that, as a result of repetitions of step 1, come to the value 1, are considered lucky.
 
-```
+```js
 function happyNumber() {
   const happyNumberStr = document.querySelector("#fourthInput").value;
   let happy = (str) => {
