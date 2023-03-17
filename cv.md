@@ -27,7 +27,9 @@ I hope that my skills as a teacher will be useful on my way, and with my perseve
   
 ---
 ## **Code example:**
+
 > ### **Correct parenthesis closing**
+
 The input is a string. It can contain opening and closing brackets `()` `{}` `[]`. You need to make sure that the sequence of opening and closing brackets is not violated, that is
 
 1) An open bracket can only be closed with the same type of brackets
@@ -58,6 +60,7 @@ function bracket() {
 ```
 
 > ### **Lucky number** 
+
 A lucky number is a number that is described by the following process:
 
 1) Starting from any value, we replace it with the sum of the squares of the digits from which this value is written
@@ -89,6 +92,7 @@ function happyNumber() {
 }
 ```
 > ### **Layout example**
+
 ![layout](/img/layout.PNG)
 
 ---
