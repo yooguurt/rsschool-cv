@@ -6,7 +6,11 @@
    + **WhatsApp:** +79537024463
    + **Discord:** yooguurt#5156
    + **GitHub:** [yooguurt](https://github.com/yooguurt)
+  
+  
 ---
+
+
 ## **Briefly About Myself:**
 
 Throughout my life I have always been interested in computer technologies and their possibilities. I often helped my friends and acquaintances solve problems related to their devices.
