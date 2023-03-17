@@ -118,4 +118,4 @@ function happyNumber() {
 + ### English - A2+
   ![eng](img/eng.PNG)
 + ### Russian - Native
-+ ### Germany - A2
++ ### German - A2
