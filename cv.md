@@ -7,12 +7,9 @@
    + **Discord:** yooguurt#5156
    + **GitHub:** [yooguurt](https://github.com/yooguurt)
   
-  
 ---
 
-
 ## **Briefly About Myself:**
-
 Throughout my life I have always been interested in computer technologies and their possibilities. I often helped my friends and acquaintances solve problems related to their devices.
 
 Unfortunately, I did not have the opportunity to get an education related to IT technologies and I worked as a teacher at a school.
